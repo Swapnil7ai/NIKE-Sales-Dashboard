@@ -20,7 +20,7 @@ The main goal of this dashboard is to provide a comprehensive and visual underst
 •Supporting business decisions using clear KPIs and interactive visuals
 
 ## Dashboard Overview
-- <a href="https://github.com/Swapnil7ai/Zomato-Sales-Dashboard-2023-2025-/blob/main/ZOMATO.pbix">Dashboard</a>
+- <a href="https://github.com/Swapnil7ai/NIKE-Sales-Dashboard/blob/main/NIKE.pbix">Dashboard</a>
 
 ## 🛠️ Tech Stack
 
